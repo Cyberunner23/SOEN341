@@ -1,5 +1,6 @@
 
-#SOEN341 Project
+SOEN341 Project
+===============
 
 by:
 * Alex Frappier Lachapelle
